@@ -214,3 +214,9 @@ week6/jsonl/
 week6/*.pth
 week6/*.joblib
 week8/*.pth
+week5/shimano-test.pdf
+week5/pdf_vector_db/chroma.sqlite3
+week5/pdf_vector_db/fb7cff24-730b-4f6f-b5d3-d067bafd063f/data_level0.bin
+week5/pdf_vector_db/fb7cff24-730b-4f6f-b5d3-d067bafd063f/header.bin
+week5/pdf_vector_db/fb7cff24-730b-4f6f-b5d3-d067bafd063f/length.bin
+week5/pdf_vector_db/fb7cff24-730b-4f6f-b5d3-d067bafd063f/link_lists.bin
